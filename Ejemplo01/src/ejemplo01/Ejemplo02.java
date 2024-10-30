@@ -14,8 +14,9 @@ public class Ejemplo02 {
         // Ejemplo 
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
-                
+        String space = " ";
         System.out.println(nombreEstudiante+apellidoEstudiante);
         System.out.println(nombreEstudiante+" "+apellidoEstudiante);
+        System.out.println(nombreEstudiante+space+apellidoEstudiante);
     }
 }

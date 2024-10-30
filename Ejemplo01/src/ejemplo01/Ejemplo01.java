@@ -20,8 +20,10 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // ya no se debe poner el tipo de variable, pq no se puede cambiar el tipo
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
+        // imprime el nuevo valor de la variable
     }
     
 }
